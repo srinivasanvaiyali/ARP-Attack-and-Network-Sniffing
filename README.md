@@ -27,7 +27,7 @@ In windows 7 give the command arp -a
 
 ![image](https://github.com/srinivasanvaiyali/ARP-Attack-and-Network-Sniffing/assets/145117665/203c1f56-777c-4c71-99c0-9333be6820ff)
 
-From kali linux issue the command : sudo arpspoof -i eth0 -t
+
 
 From kali linux issue the command :
 sudo arpspoof -i eth0 -t <target system> <gateway>
